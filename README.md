@@ -58,6 +58,8 @@ Welcome to the **Hollywood's Most Profitable Stories** project! 🌟 Dive into t
 
 https://app.powerbi.com/links/EMCfgYN7VB?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare 
 
+![image](https://github.com/user-attachments/assets/7977afc5-aa92-45ec-9cfa-5262dec9b323)
+
 ![Dashboard Overview](#) *(Add a screenshot of your dashboard here)*  
 ![Genre Analysis](#) *(Add a screenshot of a specific visualization here)*  
 
