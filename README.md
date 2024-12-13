@@ -4,6 +4,11 @@
 
 Welcome to the **Hollywood's Most Profitable Stories** project! 🌟 Dive into the glitz and glamour of the film industry as we explore the data behind blockbuster movies. Using **RStudio** for data magic 🪄 and **Power BI** for stunning visuals 📊, this project uncovers the secrets of Hollywood's success.
 
+
+
+[Dashboard Preview](https://app.powerbi.com/links/EMCfgYN7VB?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)  
+<img src="https://github.com/user-attachments/assets/7977afc5-aa92-45ec-9cfa-5262dec9b323" alt="Alt Text" width="500" height="300">
+
 ---
 
 ## 💡 Project Highlights
@@ -56,9 +61,6 @@ Welcome to the **Hollywood's Most Profitable Stories** project! 🌟 Dive into t
 
 ---
 
-
-[Dashboard Preview](https://app.powerbi.com/links/EMCfgYN7VB?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)  
-<img src="https://github.com/user-attachments/assets/7977afc5-aa92-45ec-9cfa-5262dec9b323" alt="Alt Text" width="500" height="300">
 
 
 ---
